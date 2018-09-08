@@ -6,3 +6,8 @@ Zipcode is an indicator of how the environment and a community affects a patient
 
 
 Help physicians make more informed decisions about how to best treat a patient's profile by taking a more holistic account of community and environment factors. 
+
+
+TECHNOLOGIES REQUIRED:
+* Typical MEAN stack with bower functionality
+* use this for reference: https://hackhands.com/how-to-get-started-on-the-mean-stack/
